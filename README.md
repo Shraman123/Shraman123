@@ -1,4 +1,4 @@
-Hi, I'm Shraman Hazra, an AI/ML Engineer, entrepreneur, and business strategist passionate about building scalable tech solutions. I specialize in machine learning, fintech, SaaS, and AI-driven startups.
+Hi, I'm Shraman Hazra, an AI/ML Engineer,Product guy , entrepreneur, and business strategist passionate about building scalable tech solutions. I specialize in machine learning, fintech, SaaS, and AI-driven startups.
 
 Upcoming Google
 
