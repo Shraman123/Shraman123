@@ -23,11 +23,9 @@ Based in India · B.Tech (AIML) · HRM Enthusiast · Teacher at NGOs
 ## 🔍 Selected Projects  
 | Project | What I built | Key Tech | Outcome |
 |--------|--------------|----------|---------|
-| **MyStartup‑MVP** | A SaaS platform for [describe] → built and launched to X users | Next.js, Python, AWS | Achieved [X] sign‑ups in Y time |
-| **AI‑Agent for Fintech** | Developed an LLM‑based assistant for [task] | GPT‑4, FastAPI, React | Reduced task time by 40% |
+| **MyStartup‑MVP** | A SaaS platform for Hospital MARKETPLACE built and launched to 10 users | Next.js, Python, AWS | Achieved [X] sign‑ups in Y time |
+| **AI‑Agent for Fintech** | Developed an LLM‑based assistant for Research in Stock-Maret| GPT‑4, FastAPI, React | Reduced task time by 40% |
 | **Student‑Project Hub (NGO)** | Led a team of 10 students building real‑world apps | Python, Flutter | Presented at school tech‑fair |
-
-> *Notes:* Replace with your actual projects. Keep 3‑5 items.
 
 ---
 
