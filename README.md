@@ -1,8 +1,51 @@
-Hi, I'm Shraman Hazra, an AI/ML Engineer,Product guy , entrepreneur, and business strategist passionate about building scalable tech solutions. I specialize in machine learning, fintech, SaaS, and AI-driven startups.
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/4c4c97f6-4bc6-4b9f-b3e4-57e8c78d26c2" />
+# Hi there, I’m Shraman Hazra 👋  
+**AI / ML Engineer · Product & Entrepreneur · Startup Enthusiast**  
+Based in India · B.Tech (AIML) · HRM Enthusiast · Teacher at NGOs
 
-Upcoming Google
+---
 
-<!---
-Shraman123/Shraman123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧭 What I Do  
+- I build **AI‑powered products** and **SaaS solutions** that bridge business needs and real‑world impact.  
+- I thrive at the intersection of machine learning, fintech, and product strategy — from ideation to launch.  
+- As a teacher and mentor, I lead extracurricular tech projects for students and foster creative problem‑solving.
+
+---
+
+## 🚀 Key Skills & Technologies  
+**Languages & Frameworks:** Python · TypeScript · Next.js · React · Node.js  
+**Machine Learning & AI:** Deep Learning · LLMs · Computer Vision · MLOps  
+**Business / Product / Startup:** SaaS modelling · Fintech systems · MVP development  
+**Other:** HR & People management · Mentoring · Agile workflows
+
+---
+
+## 🔍 Selected Projects  
+| Project | What I built | Key Tech | Outcome |
+|--------|--------------|----------|---------|
+| **MyStartup‑MVP** | A SaaS platform for [describe] → built and launched to X users | Next.js, Python, AWS | Achieved [X] sign‑ups in Y time |
+| **AI‑Agent for Fintech** | Developed an LLM‑based assistant for [task] | GPT‑4, FastAPI, React | Reduced task time by 40% |
+| **Student‑Project Hub (NGO)** | Led a team of 10 students building real‑world apps | Python, Flutter | Presented at school tech‑fair |
+
+> *Notes:* Replace with your actual projects. Keep 3‑5 items.
+
+---
+
+## 📫 Get in Touch  
+- LinkedIn: https://www.linkedin.com/in/shraman-hazra12/ 
+- Email: hazrashraman875@gmail.com 
+
+---
+
+## 🎯 Currently  
+- Completing B.Tech in AIML and exploring Product‐Engineering roles in AI startups.  
+- Building my next MVP around [brief description] — stay tuned!  
+- Mentoring tech clubs at NGOs and helping students build their first apps.
+
+---
+
+## 🎭 Fun Facts  
+- I practise **yoga** daily — Zen in the code‑world.  
+- My **passion for acting & travel** fuels my creativity and photoshoots for side projects.  
+- I'm 22 and always up for **coffee chats about AI, startups & human‑centred design**.
+
