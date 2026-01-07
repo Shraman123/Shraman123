@@ -1,14 +1,15 @@
 <img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/4c4c97f6-4bc6-4b9f-b3e4-57e8c78d26c2" />
 # Hi there, I’m Shraman Hazra 👋  
-**AI / ML Engineer · Product & Entrepreneur · Startup Enthusiast**  
-Based in India · B.Tech (AIML) · HRM Enthusiast · Teacher at NGOs
+**AI  Engineer · Startup Enthusiast**  
+Based in India · B.Tech (AIML) · Teacher at NGOs
 
 ---
 
 ## 🧭 What I Do  
 - I build **AI‑powered products** and **SaaS solutions** that bridge business needs and real‑world impact.  
 - I thrive at the intersection of machine learning, fintech, and product strategy — from ideation to launch.  
-- As a teacher and mentor, I lead extracurricular tech projects for students and foster creative problem‑solving.
+- I Do OpenSource Contribution
+- 
 
 ---
 
@@ -23,9 +24,9 @@ Based in India · B.Tech (AIML) · HRM Enthusiast · Teacher at NGOs
 ## 🔍 Selected Projects  
 | Project | What I built | Key Tech | Outcome |
 |--------|--------------|----------|---------|
-| **MyStartup‑MVP** | A SaaS platform for Hospital MARKETPLACE built and launched to 10 users | Next.js, Python, AWS | Achieved [X] sign‑ups in Y time |
+| **MyStartup‑MVP** | A SaaS platform for Hospital MARKETPLACE built and launched to 10 users | Next.js, Python, AWS | Achieved 5000 sign‑ups in 3 days|
 | **AI‑Agent for Fintech** | Developed an LLM‑based assistant for Research in Stock-Maret| GPT‑4, FastAPI, React | Reduced task time by 40% |
-| **Student‑Project Hub (NGO)** | Led a team of 10 students building real‑world apps | Python, Flutter | Presented at school tech‑fair |
+| **Student‑Project Hub (NGO)** | Led a team of 10 students building real‑world apps | Python, Flutter | Presented at college tech‑fair |
 
 ---
 
