@@ -1,50 +1,77 @@
-<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/4c4c97f6-4bc6-4b9f-b3e4-57e8c78d26c2" />
-# Hi there, I’m Shraman Hazra 👋  
-**AI  Engineer · Startup Enthusiast**  
-Based in India · B.Tech (AIML) · Teacher at NGOs
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4c4c97f6-4bc6-4b9f-b3e4-57e8c78d26c2" width="100%" alt="Header Banner" />
+</div>
+
+<h1 align="center">Hi there, I'm Shraman Hazra <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="28"></h1>
+
+<h3 align="center">AI Engineer · Startup Enthusiast · Product Builder</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shraman-hazra12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hazrashraman875@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+## 🤖 About Me
+
+I thrive at the intersection of **Machine Learning**, **Fintech**, and **Product Strategy**. My passion lies in taking an idea from 0 to 1—building scalable, AI-powered products and SaaS solutions that bridge complex business needs with real-world impact.
+
+- 🎓 **Currently:** Completing my B.Tech in Artificial Intelligence & Machine Learning (AIML).
+- 🚀 **Building:** My next generative AI MVP and actively contributing to Open Source.
+- 💡 **Mentoring:** Teaching and leading tech clubs at local NGOs, guiding students to build their first applications.
+- 🧘‍♂️ **Outside Code:** I practice daily Yoga, love traveling, and have a deep passion for acting & human-centered design.
+
+<br/>
+
+## ⚡ Tech Stack & Tools
+
+**Languages & Web**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,html,css" />
+  </a>
+</p>
+
+**Machine Learning & Infrastructure**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,linux,git" />
+  </a>
+</p>
+<p><i>Specialized Focus: Deep Learning, LLMs, Computer Vision, MLOps, SaaS Modelling</i></p>
+
+<br/>
+
+## 🔥 Featured Projects
+
+| 🚀 Project | 🛠️ Tech Stack | 🎯 Outcome |
+| :-------- | :----------- | :-------- |
+| **Hospital Marketplace MVP** | Next.js, Python, AWS | Full-scale SaaS platform launched to early users; achieved **5000 sign-ups** in 3 days. |
+| **Fintech AI-Agent** | GPT-4, FastAPI, React | Intelligent LLM-based assistant for Stock Market research; **reduced task time by 40%**. |
+| **Student-Project Hub** | Python, Flutter | Led an NGO team of 10 students building real-world apps; showcased at college tech-fair. |
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraman123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shraman's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shraman123&theme=tokyonight&hide_border=true&background=0D1117" alt="Shraman's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraman123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
-
-## 🧭 What I Do  
-- I build **AI‑powered products** and **SaaS solutions** that bridge business needs and real‑world impact.  
-- I thrive at the intersection of machine learning, fintech, and product strategy — from ideation to launch.  
-- I Do OpenSource Contribution
-- 
-
----
-
-## 🚀 Key Skills & Technologies  
-**Languages & Frameworks:** Python · TypeScript · Next.js · React · Node.js  
-**Machine Learning & AI:** Deep Learning · LLMs · Computer Vision · MLOps  
-**Business / Product / Startup:** SaaS modelling · Fintech systems · MVP development  
-**Other:** HR & People management · Mentoring · Agile workflows
-
----
-
-## 🔍 Selected Projects  
-| Project | What I built | Key Tech | Outcome |
-|--------|--------------|----------|---------|
-| **MyStartup‑MVP** | A SaaS platform for Hospital MARKETPLACE built and launched to 10 users | Next.js, Python, AWS | Achieved 5000 sign‑ups in 3 days|
-| **AI‑Agent for Fintech** | Developed an LLM‑based assistant for Research in Stock-Maret| GPT‑4, FastAPI, React | Reduced task time by 40% |
-| **Student‑Project Hub (NGO)** | Led a team of 10 students building real‑world apps | Python, Flutter | Presented at college tech‑fair |
-
----
-
-## 📫 Get in Touch  
-- LinkedIn: https://www.linkedin.com/in/shraman-hazra12/ 
-- Email: hazrashraman875@gmail.com 
-
----
-
-## 🎯 Currently  
-- Completing B.Tech in AIML and exploring Product‐Engineering roles in AI startups.  
-- Building my next MVP around [brief description] — stay tuned!  
-- Mentoring tech clubs at NGOs and helping students build their first apps.
-
----
-
-## 🎭 Fun Facts  
-- I practise **yoga** daily — Zen in the code‑world.  
-- My **passion for acting & travel** fuels my creativity and photoshoots for side projects.  
-- I'm 22 and always up for **coffee chats about AI, startups & human‑centred design**.
-
+<div align="center">
+  <i>"Simplicity is the ultimate sophistication."</i><br>
+  <b>Let's grab a virtual coffee to chat about AI, startups, or design! ☕</b>
+</div>
