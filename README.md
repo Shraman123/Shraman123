@@ -26,12 +26,11 @@
 
 ```python
 class ShramanHazra:
-    role        = "AI Engineer & Product Builder"
+    role        = "Full Stack AI Engineer"
     education   = "B.Tech — Artificial Intelligence & Machine Learning"
     location    = "India 🇮🇳"
     interests   = ["LLMs", "SaaS", "Fintech", "Multi-agent Systems"]
     currently   = "Building next-gen AI products & mentoring at NGOs"
-    fun_fact    = "Yoga practitioner · Actor · Traveller · 22 y/o"
 ```
 
 > *"Move fast, build things that matter, ship to prod."*
@@ -55,12 +54,20 @@ class ShramanHazra:
 
 ## `$ ls -la ./projects`
 
-| 🚀 Project | Description | Stack | Impact |
-|---|---|---|---|
-| **Hospital Marketplace SaaS** | Full-stack SaaS platform connecting hospitals & patients | Next.js · Python · AWS | `5,000+ sign-ups in 3 days` |
-| **Fintech AI Agent** | LLM-powered stock market research assistant | GPT-4 · FastAPI · React | `40% reduction in research time` |
-| **NGO Student Hub** | Led 10-student team building real-world apps | Python · Flutter | `Presented at college tech fair` |
-| **OpenAI Agents SDK** | Contributing to multi-agent workflow framework | Python | `Open Source Contributor` |
+| 🚀 Project | Description | Stack |
+|---|---|---|
+| **[IRCTC Clone Backend](https://github.com/Shraman123/irctc-clone-backend)** | Full backend for India's railway booking system — routes, bookings, auth | TypeScript |
+| **[AI Call Centre](https://github.com/Shraman123/AI-Call-Centre)** | Voice AI-powered call centre automation system | Python |
+| **[IndiMed](https://github.com/Shraman123/IndiMed)** | Healthcare platform for India — connecting patients & medical services | TypeScript |
+| **[SMARTCV AI Resume Builder](https://github.com/Shraman123/SMARTCV-AI-RESUME-BUILDER)** | AI-powered resume generation and builder tool | TypeScript |
+| **[Company Intelligence Platform](https://github.com/Shraman123/company-intelligence-platform)** | B2B platform to research and analyze companies using AI | TypeScript |
+| **[Data Analyzer Agents](https://github.com/Shraman123/data-analyzer-agents)** | Multi-agent system for automated data analysis pipelines | Python |
+| **[Blog to Podcast Agent](https://github.com/Shraman123/blog-to-podcast-agent)** | Agentic pipeline that converts blog posts into podcast audio | Python |
+| **[Duolingo Clone](https://github.com/Shraman123/DUOLINGO-CLONE)** | Full-stack language learning app inspired by Duolingo | TypeScript |
+| **[Trading Bot](https://github.com/Shraman123/trading_bot)** *(private)* | Algorithmic trading bot for stock market automation | Python |
+| **[Lok Sabha Analysis](https://github.com/Shraman123/Lok-Sabha-Analysis)** | Data analysis of 2014 & 2019 Indian general election results | HTML/Python |
+| **[LangChain Chatbot](https://github.com/Shraman123/langchain-chatbot)** | First LangChain chatbot — the one that started it all | Python |
+| **[Agentic Orchestrator](https://github.com/Shraman123/agentic-orchestrator)** | Custom orchestration layer for multi-agent AI workflows | Python |
 
 ---
 
@@ -80,7 +87,7 @@ class ShramanHazra:
 
 ```
 PID   PROCESS                          STATUS
-001   B.Tech AIML (Final Year)         ██████████░░░░░░  85%  [RUNNING]
+001   B.Tech AIML (2025)               ██████████░░░░░░  100%  [RUNNING]
 002   Next AI Product MVP              ████░░░░░░░░░░░░  25%  [BUILDING]
 003   NGO Mentorship Program           ████████░░░░░░░░  60%  [ACTIVE]
 004   Open Source Contributions        ██████░░░░░░░░░░  40%  [ONGOING]
