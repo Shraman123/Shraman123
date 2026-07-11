@@ -35,16 +35,24 @@ B.Tech in AI & ML. Currently shipping AI products and mentoring students through
 
 <br>
 
-## Selected Work
+## Featured Repositories
 
-<table>
-<tr><td width="30%"><b><a href="https://github.com/Shraman123/synapse-ai">Synapse AI</a></b></td><td>Production ReAct multi-agent platform — streaming tool use, LLM-as-judge evaluation, observability dashboard</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/xai-bench">xai-bench</a></b></td><td>Unified interface + faithfulness benchmark for SHAP, Integrated Gradients, LRP, Grad-CAM, and a from-scratch DLBacktrace reimplementation</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/bharatbench">BharatBench</a></b></td><td>LLM evaluation benchmark for Bengali, Hindi, and English with automated LLM-as-judge scoring</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/AgentLens">AgentLens</a></b></td><td>Self-improving observability layer for AI agents — logs conversations, detects failures, suggests prompt fixes</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/adpulse">AdPulse</a></b></td><td>Media buying performance dashboard with an AI agent that turns campaign data into plain-English anomaly alerts</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/company-intelligence-platform">Company Intelligence Platform</a></b></td><td>Generates full business intelligence reports from just a company URL, built on the Vercel AI SDK + Gemini</td></tr>
-</table>
+```
+$ gh repo list Shraman123 --featured --sort=impact
+```
+
+<div align="center">
+
+<a href="https://github.com/Shraman123/synapse-ai"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=synapse-ai&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+<a href="https://github.com/Shraman123/xai-bench"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=xai-bench&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+
+<a href="https://github.com/Shraman123/bharatbench"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=bharatbench&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+<a href="https://github.com/Shraman123/AgentLens"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=AgentLens&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+
+<a href="https://github.com/Shraman123/adpulse"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=adpulse&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+<a href="https://github.com/Shraman123/company-intelligence-platform"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Shraman123&repo=company-intelligence-platform&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&border_color=000000&bg_color=ffffff" /></a>
+
+</div>
 
 <br>
 
