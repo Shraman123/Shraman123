@@ -38,12 +38,12 @@ B.Tech in AI & ML. Currently shipping AI products and mentoring students through
 ## Selected Work
 
 <table>
-<tr><td width="30%"><b><a href="https://github.com/Shraman123/AI-Call-Centre">AI Call Centre</a></b></td><td>Voice AI that automates inbound/outbound calls</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/company-intelligence-platform">Company Intelligence Platform</a></b></td><td>B2B research, automated</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/agentic-orchestrator">Agentic Orchestrator</a></b></td><td>A workflow layer for coordinating multiple agents</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/SMARTCV-AI-RESUME-BUILDER">SmartCV</a></b></td><td>AI resume builder</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/IndiMed">IndiMed</a></b></td><td>Healthcare platform</td></tr>
-<tr><td><b><a href="https://github.com/Shraman123/irctc-clone-backend">IRCTC Clone (backend)</a></b></td><td>Rail-booking system, built for scale</td></tr>
+<tr><td width="30%"><b><a href="https://github.com/Shraman123/synapse-ai">Synapse AI</a></b></td><td>Production ReAct multi-agent platform — streaming tool use, LLM-as-judge evaluation, observability dashboard</td></tr>
+<tr><td><b><a href="https://github.com/Shraman123/xai-bench">xai-bench</a></b></td><td>Unified interface + faithfulness benchmark for SHAP, Integrated Gradients, LRP, Grad-CAM, and a from-scratch DLBacktrace reimplementation</td></tr>
+<tr><td><b><a href="https://github.com/Shraman123/bharatbench">BharatBench</a></b></td><td>LLM evaluation benchmark for Bengali, Hindi, and English with automated LLM-as-judge scoring</td></tr>
+<tr><td><b><a href="https://github.com/Shraman123/AgentLens">AgentLens</a></b></td><td>Self-improving observability layer for AI agents — logs conversations, detects failures, suggests prompt fixes</td></tr>
+<tr><td><b><a href="https://github.com/Shraman123/adpulse">AdPulse</a></b></td><td>Media buying performance dashboard with an AI agent that turns campaign data into plain-English anomaly alerts</td></tr>
+<tr><td><b><a href="https://github.com/Shraman123/company-intelligence-platform">Company Intelligence Platform</a></b></td><td>Generates full business intelligence reports from just a company URL, built on the Vercel AI SDK + Gemini</td></tr>
 </table>
 
 <br>
